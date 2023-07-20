@@ -2,7 +2,7 @@
 
 /**
  * print alphabet - function to print alphabets in lower case
- * return 0;
+ * return 0
  */
 
 void print_alphabet(void);
